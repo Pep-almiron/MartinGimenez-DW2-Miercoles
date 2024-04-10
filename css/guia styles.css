@@ -1,0 +1,25 @@
+   h1{
+    color: blue;        /*color de la letra*/
+    font-size: 50px;      /* tamaño de letra*/
+    font-style: normal;   /*tipo de letra*/
+    text-align: center;   /*centrar o morver de lugar la etiqueta*/
+    background-color: aqua;  /* cambiar color de fondo*/
+   }
+
+   a{
+    text-decoration: none;     /*fuera subrayado*/
+   }
+
+   li{
+    list-style: none;    /*borra los puntos de la lista*/
+   }
+
+   body{
+   background-color: darkgrey;    /* cambia el color de toda la página*/
+   }
+
+   .parrafo1{                  /*cambia el color de solo ese parrafo*/
+      background-color: brown;
+   }
+
+  
